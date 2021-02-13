@@ -1,0 +1,2 @@
+# webnovel_recommender
+web小説の検索及び推薦システム
